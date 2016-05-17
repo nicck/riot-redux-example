@@ -1,0 +1,24 @@
+{
+  "name": "ub-frontend",
+  "version": "2.0.0",
+  "description": "UB Frontend",
+  "main": "index.js",
+  "dependencies": {
+    "babel-plugin-transform-object-rest-spread": "^6.6.5",
+    "babel-preset-es2015-riot": "^1.0.3",
+    "babelify": "^7.2.0",
+    "browserify": "^13.0.0",
+    "minifyify": "^7.3.2",
+    "redux": "^3.3.1",
+    "riot": "^2.3.17",
+    "riotify": "^1.0.0",
+    "watchify": "^3.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo 'Error: no test specified' && exit 1"
+  },
+  "author": "nicck",
+  "license": "NONE",
+  "private": true
+}
